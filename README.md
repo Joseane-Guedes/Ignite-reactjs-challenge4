@@ -6,7 +6,7 @@
 
 
 <p align="center">	
-   <img alt="repo size" src="https://img.shields.io/github/repo-size/Joseane-Guedes/Ignite-reactjs-challenge4" />
+   <img alt="repo size" src="https://img.shields.io/github/repo-size/Joseane-Guedes/Ignite-reactjs-challenge4/>
     <img alt="issues" src="https://img.shields.io/github/issues/Joseane-Guedes/ignite-reactjs-challenge4" />
   <img alt="forks" src="https://img.shields.io/github/forks/Joseane-Guedes/ignite-reactjs-challenge4"/>
   <img alt="Stars" src="https://img.shields.io/github/stars/Joseane-Guedes/Ignite-reactjs-challenge4?style=social"/>
