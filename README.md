@@ -7,7 +7,7 @@
 
 <p align="center">	
    <img alt="followers" src="https://img.shields.io/github/followers/Joseane-Guedes?style=social"/>
-    <img alt="issues" src="https://img.shields.io/github/issues/Joseane-Guedes/ignite-reactjs-challenge4" />
+   <img alt="issues" src="https://img.shields.io/github/issues/Joseane-Guedes/ignite-reactjs-challenge4"/>
   <img alt="forks" src="https://img.shields.io/github/forks/Joseane-Guedes/ignite-reactjs-challenge4"/>
   <img alt="Stars" src="https://img.shields.io/github/stars/Joseane-Guedes/Ignite-reactjs-challenge4?style=social"/>
   <img alt="Twitter" src="https://img.shields.io/twitter/follow/JoseaneGuedes8?style=social">
